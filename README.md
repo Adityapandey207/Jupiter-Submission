@@ -1,4 +1,4 @@
-#### Simulate a real world customer behavior data used for predicting the credit score movement [increase, decrease, stable] through classification models.
+#### Simulating a real world customer behavior data used for predicting the credit score movement [increase, decrease, stable] through classification models.
 
 # Logic
 1. Synthetic Data Generation
